@@ -1,6 +1,6 @@
 # Persistent Homology Meets Object Unity: Object Recognition in Clutter
 
-Code repository for THOR presented in Persistent Homology Meets Object Unity: Object Recognition in Clutter (and the framework presented in [Topologically Persistent Features-based Object Recognition in Cluttered Indoor Environments](https://arxiv.org/abs/2205.07479).
+Code repository for THOR presented in Persistent Homology Meets Object Unity: Object Recognition in Clutter (and the framework presented in [Topologically Persistent Features-based Object Recognition in Cluttered Indoor Environments](https://arxiv.org/abs/2205.07479)).
 
 ## Dataset
 
